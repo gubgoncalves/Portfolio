@@ -44,7 +44,7 @@ Estudante do 5º período de **Sistemas de Informação** na UNIFEI. Busco oport
 ## 📁 Estrutura do projeto
 
 ```
-CV/
+CV_PORTFOLIO/
 ├── index.html       # Página principal com todo o conteúdo
 ├── style.css        # Estilos, cores, layout e responsividade
 ├── script.js        # Animações, scroll ativo e download do CV
@@ -97,23 +97,6 @@ Cards interativos com links para:
 | `--text` | `#e8eaf0` | Texto principal |
 | `--muted` | `#8a96aa` | Texto secundário |
 
----
-
-## 🚀 Como rodar localmente
-
-```bash
-# 1. Clone o repositório
-git clone https://github.com/gubgoncalves/CV.git
-
-# 2. Entre na pasta
-cd CV
-
-# 3. Abra no VS Code
-code .
-
-# 4. Use a extensão Live Server para visualizar
-# Clique com botão direito no index.html → "Open with Live Server"
-```
 
 ---
 
